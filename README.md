@@ -43,9 +43,11 @@ Road Defect Detection Based on Yolov8
 
 ## Trained models
 
-[`yolov8s-rong.pt`](https://github.com/LiaoKyle/Road-Defect-Detection/releases/download/YOLOv8-rdd/yolov8s-rong.pt)
+[`yolov8s-rong.pt`](https://github.com/LiaoKyle/Road-Defect-Detection/releases/download/YOLOv8-rdd/yolov8s_rong.pt)
+
 [`yolov8n-yuan.pt`](https://github.com/LiaoKyle/Road-Defect-Detection/releases/download/YOLOv8-rdd/yolov8n_yuan.pt)
-[`yolov8x-rong.pt`](https://github.com/LiaoKyle/Road-Defect-Detection/releases/download/YOLOv8-rdd/yolov8x-rong.pt)
+
+[`yolov8x-rong.pt`](https://github.com/LiaoKyle/Road-Defect-Detection/releases/download/YOLOv8-rdd/yolov8x_rong.pt)
 
 ## 最终结果
 
