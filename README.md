@@ -43,9 +43,8 @@ Road Defect Detection Based on Yolov8
 
 ## Trained models
 
-[`yolov8n-yuan.pt`](ultralytics-main/ultralytics-main/models/yolov8n-yuan.pt)
 [`yolov8s-rong.pt`](ultralytics-main/ultralytics-main/models/yolov8s-rong.pt)
-[`yolov8x-rong.pt`](ultralytics-main/ultralytics-main/models/yolov8x-rong.pt)
+[`yolov8n-yuan.pt`](ultralytics-main/ultralytics-main/models/yolov8n-yuan.pt)
 
 ## 最终结果
 
