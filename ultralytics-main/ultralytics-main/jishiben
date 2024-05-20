@@ -1,0 +1,13 @@
+train 4 原数据集9：1
+train 5 加入500盐 500胡椒 2400：600数据集
+train 7 将train4的best.pt去跑train 5的数据集
+train 8 将train5的best.pt去跑train 4的数据集
+train 12 开始使用yolov8x.pt进行训练，跑rcdata8bi2（原数据1600：400）没跑完
+train 13 开始使用yolov8x.pt进行训练，跑rcdata8bi2（原数据1600：400）
+train 18 开始使用yolov8x.pt进行训练，跑data1124
+train 20 yolov8n.pt 跑jsai和bd的融合数据集跑data_jsai_bd1127
+train 22 yolov8s.pt 跑jsai和bd的融合数据集跑data_jsai_bd1127
+train 24 yolov8s.pt 跑jsai和bd的融合数据集跑data_jsai_roboflow 效果很差
+train 26 yolov8n.pt 跑原始数据集data8bi2_1130
+
+
