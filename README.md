@@ -55,6 +55,9 @@ Road Defect Detection Based on Yolov8
 
 ### A榜：0.497 &nbsp;&nbsp;&nbsp; B榜：0.304 &nbsp;&nbsp;&nbsp; rank：20。
 
+## 致谢
+[include233](https://github.com/include233)
+
 ## <div align="center">License</div>
 
 YOLOv8 is available under two different licenses:
@@ -64,20 +67,3 @@ YOLOv8 is available under two different licenses:
   requirements of GPL-3.0. Typical use cases are embedding Ultralytics software and AI models in commercial products and
   applications. Request an Enterprise License at [Ultralytics Licensing](https://ultralytics.com/license).
 
-## <div align="center">Contact</div>
-
-For YOLOv8 bugs and feature requests please visit [GitHub Issues](https://github.com/ultralytics/ultralytics/issues).
-For professional support please [Contact Us](https://ultralytics.com/contact).
-
-<br>
-<div align="center">
-  <a href="https://github.com/ultralytics" style="text-decoration:none;">
-    <img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-github.png" width="3%" alt="" /></a>
-  <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="3%" alt="" />
-  <a href="https://www.linkedin.com/company/ultralytics" style="text-decoration:none;">
-    <img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-linkedin.png" width="3%" alt="" /></a>
-  <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="3%" alt="" />
-  <a href="https://twitter.com/ultralytics" style="text-decoration:none;">
-    <img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-twitter.png" width="3%" alt="" /></a>
-  <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="3%" alt="" />
-  <a href="https://www.producthunt.com/@glenn_jocher" style="text-decoration:none;">
