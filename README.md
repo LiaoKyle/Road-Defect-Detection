@@ -53,7 +53,7 @@ Road Defect Detection Based on Yolov8
 
 ![Sample Image](examples/result1.png)
 
-### A榜：0.497 &nbsp;&nbsp;&nbsp; B榜：0.304 &nbsp;&nbsp;&nbsp; rank：20。
+### A榜：0.497 &nbsp;&nbsp;&nbsp; B榜：0.304 &nbsp;&nbsp;&nbsp; rank：20
 
 ## 致谢
 [include233](https://github.com/include233)
